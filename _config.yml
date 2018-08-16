@@ -1,0 +1,8 @@
+title: Xulunfan.GitHub.io
+description: 许伦凡的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
